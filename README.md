@@ -13,4 +13,8 @@ A guessing game where a ball is hidden in a cup and shuffled by the robot. You m
 A speed game where 3 moles pop-up at random and you must whack them as fast as possible with a hammer!
 
 ### EV3 Rolling About: Program for the RAC3R truck
-<img src="images/rolling-about-program.png" width="70%" />
+This is a sample program from the RAC3R truck designed by Laurens Valk. See [Lego mindstorms fan robots](https://www.lego.com/en-us/themes/mindstorms/buildarobot) to download building instructions
+
+| Photo | Program |
+|---|---|
+|<img src="images/rolling-about-photo.jpg" />|<img src="images/rolling-about-program.png" />|
